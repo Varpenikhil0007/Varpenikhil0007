@@ -3,7 +3,8 @@
 
 
 <div align="center">
-   <img src="[image](https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/e73baac3-06e0-4379-a355-0b2adc0f65bc)" height="150" alt="achievement"  />
+   <img src="![image](https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/81b996e5-8140-46fa-8192-88ec893345ff)
+" height="150" alt="achievement"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
