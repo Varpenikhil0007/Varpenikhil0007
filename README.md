@@ -1,10 +1,9 @@
-![image](https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/e73baac3-06e0-4379-a355-0b2adc0f65bc)<h2 align="left">Hi 👋! My name is Varpe Nikhil and I'm a Web Developer.</h2>
+<h2 align="left">Hi 👋! My name is Varpe Nikhil and I'm a Web Developer.</h2>
 
 
 
 <div align="center">
-   <img src="![image](https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/a87427e3-1cda-4a45-aa36-f1ae92f62f93)
-" height="150" alt="languages graph"  />
+   <img src="[image](https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/e73baac3-06e0-4379-a355-0b2adc0f65bc)" height="150" alt="achievement"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
