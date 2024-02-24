@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/work-office-computer-penguin-job-gif-10013904041284194281)"  />
+<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/work-office-computer-penguin-job-gif-10013904041284194281)](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1708755691~exp=1708756291~hmac=96a06804b50594fbef26329ffda382f477d60422cea27b0bcb132ce144a5a32f)"  />
 
 ###
 
