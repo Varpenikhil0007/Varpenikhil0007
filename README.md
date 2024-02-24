@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7165012818134609921" height="350" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
