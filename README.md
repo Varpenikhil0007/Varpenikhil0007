@@ -7,7 +7,7 @@
 " height="150" alt="achievement"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img align="right" height="150" src="![image](https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/196d037a-7c4d-4f32-9e88-5d89e9212d74)
+<img align="right" height="150" src="https://github.com/Varpenikhil0007/Varpenikhil0007/assets/156223328/196d037a-7c4d-4f32-9e88-5d89e9212d74
 "  />
 
 
